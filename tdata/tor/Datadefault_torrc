@@ -1,0 +1,5 @@
+SocksPort 9393 IPv6Traffic PreferIPv6 KeepAliveIsolateSOCKSAuth
+CookieAuthentication 1
+AvoidDiskWrites 1
+DisableNetwork 0
+__ReloadTorrcOnSIGHUP 0

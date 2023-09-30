@@ -1,0 +1,16 @@
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\Texts\0.txt
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\Texts\1.txt
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\Texts\2.txt
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\Texts\4.txt
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\PocketGoogle.exe.config
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\PocketGoogle.exe
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\PocketGoogle.pdb
+C:\Users\Владислав\Desktop\StudyFolder\google\bin\Debug\nunit.framework.dll
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.Properties.Resources.resources
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.csproj.CopyComplete
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.exe
+C:\Users\Владислав\Desktop\StudyFolder\google\obj\Debug\PocketGoogle.pdb

@@ -1,0 +1,12 @@
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\bin\Debug\Manipulator.exe.config
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\bin\Debug\Manipulator.exe
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\bin\Debug\Manipulator.pdb
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\bin\Debug\nunit.framework.dll
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\manipulator.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\manipulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\Manipulator.exe
+C:\Users\Владислав\Desktop\StudyFolder\manipulator\obj\Debug\Manipulator.pdb

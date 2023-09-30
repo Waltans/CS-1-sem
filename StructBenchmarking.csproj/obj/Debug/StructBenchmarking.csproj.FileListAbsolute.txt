@@ -1,0 +1,14 @@
+C:\Users\milko\Downloads\StructBenchmarking.csproj\bin\Debug\StructBenchmarking.exe.config
+C:\Users\milko\Downloads\StructBenchmarking.csproj\bin\Debug\StructBenchmarking.exe
+C:\Users\milko\Downloads\StructBenchmarking.csproj\bin\Debug\StructBenchmarking.pdb
+C:\Users\milko\Downloads\StructBenchmarking.csproj\bin\Debug\nunit.framework.dll
+C:\Users\milko\Downloads\StructBenchmarking.csproj\bin\Debug\ZedGraph.dll
+C:\Users\milko\Downloads\StructBenchmarking.csproj\bin\Debug\ZedGraph.xml
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.AssemblyReference.cache
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.SuggestedBindingRedirects.cache
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.Properties.Resources.resources
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.GenerateResource.cache
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.CoreCompileInputs.cache
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.CopyComplete
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.exe
+C:\Users\milko\Downloads\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.pdb

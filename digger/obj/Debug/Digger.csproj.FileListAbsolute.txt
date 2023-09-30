@@ -1,0 +1,17 @@
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\Images\Digger.png
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\Images\Gold.png
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\Images\Monster.png
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\Images\Sack.png
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\Images\Terrain.png
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\11-digger.exe.config
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\11-digger.exe
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\11-digger.pdb
+C:\Users\Владислав\Desktop\StudyFolder\digger\bin\Debug\nunit.framework.dll
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\Digger.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\11-digger.exe
+C:\Users\Владислав\Desktop\StudyFolder\digger\obj\Debug\11-digger.pdb

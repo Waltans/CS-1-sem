@@ -1,0 +1,10 @@
+C:\Users\Владислав\Desktop\distance\bin\Debug\Distance.exe.config
+C:\Users\Владислав\Desktop\distance\bin\Debug\Distance.exe
+C:\Users\Владислав\Desktop\distance\bin\Debug\Distance.pdb
+C:\Users\Владислав\Desktop\distance\bin\Debug\TestingRoom.dll
+C:\Users\Владислав\Desktop\distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\distance\obj\Debug\Distance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\distance\obj\Debug\Distance.csproj.CopyComplete
+C:\Users\Владислав\Desktop\distance\obj\Debug\Distance.exe
+C:\Users\Владислав\Desktop\distance\obj\Debug\Distance.pdb

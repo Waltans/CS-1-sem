@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74f1066b_002D6858_002D4092_002D8d94_002Dbba4c67d62c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetJointPositions" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B051FDE-3D78-4BB7-A11C-98F67407AF08::.NETFramework,Version=v4.7.2::Manipulation.AnglesToCoordinatesTask_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B051FDE-3D78-4BB7-A11C-98F67407AF08::.NETFramework,Version=v4.7.2::Manipulation.TriangleTask_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B051FDE-3D78-4BB7-A11C-98F67407AF08::.NETFramework,Version=v4.7.2::Manipulation.ManipulatorTask_Tests.TestMoveManipulatorTo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aed10445_002D29b5_002D47bf_002Db1bd_002D01cb24a26d04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnglesToCoordinatesTask_Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B051FDE-3D78-4BB7-A11C-98F67407AF08::.NETFramework,Version=v4.7.2::Manipulation.AnglesToCoordinatesTask_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B051FDE-3D78-4BB7-A11C-98F67407AF08::.NETFramework,Version=v4.7.2::Manipulation.TriangleTask_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B051FDE-3D78-4BB7-A11C-98F67407AF08::.NETFramework,Version=v4.7.2::Manipulation.ManipulatorTask_Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,16 @@
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\dic\adjectives.txt
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\dic\nouns.txt
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\dic\verbs.txt
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\Autocomplete.exe.config
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\Autocomplete.exe
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\Autocomplete.pdb
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\bin\Debug\nunit.framework.dll
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\autocomplete.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\autocomplete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\autocomplete.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\autocomplete.csproj.CopyComplete
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\Autocomplete.exe
+C:\Users\Владислав\Desktop\StudyFolder\SearchAndFind\obj\Debug\Autocomplete.pdb

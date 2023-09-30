@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d9bd411_002D6114_002D426e_002Da0d3_002De2b6be55bba2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TopByPrefix_IsEmpty_WhenNoPhrases" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F849C260-0712-4D37-9273-ADB46B8DCCFB::.NETFramework,Version=v4.7.2::Autocomplete.AutocompleteTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3198f27_002Da418_002D4f72_002Da685_002D7ed0a3525067/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TopByPrefix_IsEmpty_WhenNoPhrases #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F849C260-0712-4D37-9273-ADB46B8DCCFB::.NETFramework,Version=v4.7.2::Autocomplete.AutocompleteTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

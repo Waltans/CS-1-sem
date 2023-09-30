@@ -1,0 +1,9 @@
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\bin\Debug\eurobot.bmp
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\bin\Debug\Recognizer.exe.config
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\bin\Debug\Recognizer.exe
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\bin\Debug\Recognizer.pdb
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\obj\Debug\Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\obj\Debug\Recognizer.exe
+C:\Users\Владислав\Desktop\StudyFolder\GreyScale\obj\Debug\Recognizer.pdb

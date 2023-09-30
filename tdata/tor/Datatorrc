@@ -1,0 +1,5 @@
+ControlPort auto
+GeoIPFile C:/Users/Shram/Desktop/Sphere/SphereFiles/tor/Datageoip
+GeoIPv6File C:/Users/Shram/Desktop/Sphere/SphereFiles/tor/Datageoip6
+HiddenServiceStatistics 0
+Log notice stdout

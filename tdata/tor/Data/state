@@ -1,0 +1,44 @@
+# Tor state file last generated on 2018-08-21 16:13:42 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=FFD825EFA77AB9B16BAF4CBDB8C42F3A17D3AB6D nickname=ANASTASIJA sampled_on=2018-07-20T16:45:54 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=3A1327AFECA8A974143DB38B533C6DA3CF21326E nickname=servbr5 sampled_on=2018-07-20T03:22:09 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=DD864A786BB4107B8126F128B77212AB43B21362 nickname=axolotl sampled_on=2018-07-22T11:05:47 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=557B39146EB121C8CFA22C48AD78BDBDBC8FF3A1 nickname=KUEXBON sampled_on=2018-07-22T23:46:58 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=547E4B4BDCAEFAC769660A2A02B67470396404B5 nickname=Unnamed sampled_on=2018-07-18T02:58:38 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=52BFADA8BEAA01BA46C8F767F83C18E2FE50C1B9 nickname=BeastieJoy63 sampled_on=2018-07-16T11:27:28 sampled_by=0.3.3.7 listed=1 confirmed_on=2018-08-12T05:22:27 confirmed_idx=2
+Guard in=default rsa_id=AA694EE823266F9F1A12B0A679AA8A91740B3C4A nickname=raf sampled_on=2018-07-18T16:05:23 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=A74E524F4ABA8C6E34CFBEA40977AFAFBF45DC0C nickname=ComradeMajor sampled_on=2018-07-16T13:54:29 sampled_by=0.3.3.7 unlisted_since=2018-08-13T14:59:45 listed=0
+Guard in=default rsa_id=BB994C2C842571246E54F9A495BB53D706E5314F nickname=Unnamed sampled_on=2018-07-15T04:55:35 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=8076FFAFE8026E25734F44D6834914DACA053590 nickname=torpidsCZwedos sampled_on=2018-07-16T11:04:26 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=7AA7FC80E3E0D32E929D2CC094EACF529C95264C nickname=steinpilz sampled_on=2018-07-16T23:31:05 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=2122454731920213E20DABC68461464CFF535BE9 nickname=t0th3m00n sampled_on=2018-07-20T19:22:03 sampled_by=0.3.3.7 listed=1 confirmed_on=2018-08-06T11:11:20 confirmed_idx=1
+Guard in=default rsa_id=5AE78E639DA2795C32EEE11CE5014546289777B8 nickname=Megatron sampled_on=2018-07-17T18:01:53 sampled_by=0.3.3.7 listed=1 confirmed_on=2018-08-07T13:09:19 confirmed_idx=0 pb_circ_attempts=78.000000 pb_circ_successes=77.000000 pb_successful_circuits_closed=77.000000
+Guard in=default rsa_id=7D4838AB4D937795306135418D8D5E07A93E3836 nickname=Layla8 sampled_on=2018-07-22T05:16:44 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=767E444E1FA1DA75F3B77479DB5AE2FA3FFF75CC nickname=qtornado sampled_on=2018-07-21T20:02:35 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=BFB5FAAB9BBCD4A3D6B537C356CE5DCA2736D9B7 nickname=Dirk sampled_on=2018-07-22T16:45:19 sampled_by=0.3.3.7 unlisted_since=2018-08-13T01:10:38 listed=0
+Guard in=default rsa_id=D80EA21626BFAE8044E4037FE765252E157E3586 nickname=bonjour1 sampled_on=2018-07-25T00:29:03 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=D95980C15F79E094AE255BA8F1B57FD6C81F2B54 nickname=Splinter sampled_on=2018-07-19T01:43:41 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=1C90D3AEADFF3BCD079810632C8B85637924A58E nickname=Multivac sampled_on=2018-07-14T10:00:57 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=01D3B71F140FFEC3A0C1FE84A656AE7697971EA4 nickname=mravenisko1 sampled_on=2018-07-15T03:50:16 sampled_by=0.3.3.7 unlisted_since=2018-08-12T23:22:56 listed=0
+Guard in=default rsa_id=1865EB9A144F88870CCC11A739C63DA59758F353 nickname=HuggenknubbelsRelay sampled_on=2018-08-13T23:46:11 sampled_by=0.3.3.7 unlisted_since=2018-08-20T10:30:12 listed=0
+Guard in=default rsa_id=EC0ABA811E4EB33DAD8BC8B7037D862BF4F3AA28 nickname=mortimerAtx sampled_on=2018-08-16T01:07:56 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=BC7D55036A058E4EB5550800A90EFC00EB04D566 nickname=TheEpTic1 sampled_on=2018-08-15T06:15:56 sampled_by=0.3.3.7 listed=1
+TorVersion Tor 0.3.3.7
+LastWritten 2018-08-21 13:13:42
+TotalBuildTimes 77
+CircuitBuildTimeBin 225 1
+CircuitBuildTimeBin 275 24
+CircuitBuildTimeBin 325 8
+CircuitBuildTimeBin 375 6
+CircuitBuildTimeBin 425 11
+CircuitBuildTimeBin 475 7
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 575 6
+CircuitBuildTimeBin 625 4
+CircuitBuildTimeBin 675 3
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 775 1
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 1875 1

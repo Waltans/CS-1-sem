@@ -1,0 +1,13 @@
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\bin\Debug\TableParser.exe.config
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\bin\Debug\TableParser.exe
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\bin\Debug\TableParser.pdb
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\bin\Debug\nunit.framework.dll
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\table-parser.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\table-parser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\TableParser.ParserMainForm.resources
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\TableParser.Properties.Resources.resources
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\table-parser.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\table-parser.csproj.CopyComplete
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\TableParser.exe
+C:\Users\Владислав\Desktop\StudyFolder\TextParser\obj\Debug\TableParser.pdb
